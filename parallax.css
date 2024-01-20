@@ -40,7 +40,8 @@ body{
     overflow-x: hidden;
 }
 .paragraph{
-    text-align: justify;
+    /* text-align: justify; */
+    text-align: center;
     padding: 25px ;
     margin-left: auto;
     margin-right: auto;
