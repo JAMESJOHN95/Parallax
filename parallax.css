@@ -1,4 +1,5 @@
 .parallax{
+    width: 100%;
     background-image: url(./images/lion.jpg);
     min-height: 500px;
     background-attachment: fixed;
@@ -8,6 +9,7 @@
 }
 
 .parallax2{
+    width: 100%;
     background-image: url(./images/elephant.png);
     min-height: 500px;
     background-size: cover;
@@ -17,6 +19,7 @@
 }
 
 .parallax3{
+    width: 100%;
     background-image: url(./images/leoperd.jpg);
     min-height: 500px;
     background-size: cover;
@@ -26,9 +29,19 @@
 }
 
 .parallax4{
+    width: 100%;
     background-image: url(./images/zebra.png);
     background-position: center;
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
+}
+body{
+    overflow-x: hidden;
+}
+.paragraph{
+    text-align: justify;
+    padding: 25px ;
+    margin-left: auto;
+    margin-right: auto;
 }
