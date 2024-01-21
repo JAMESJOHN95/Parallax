@@ -41,8 +41,8 @@ body{
 }
 .paragraph{
     /* text-align: justify; */
-    text-align: center;
-    padding: 25px ;
-    margin-left: auto;
-    margin-right: auto;
+    /* text-align: center; */
+    /* padding: 25px ; */
+    margin-left: 75px;
+    /* margin-right: auto; */
 }
